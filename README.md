@@ -7,7 +7,7 @@
 <h2>Visvienkāršākais web dokuments</h2>
 
 <br/>
-<p><b>Sveiks! Es, Jānis VOitkēvičs saku:</br>"Edgar! Mācies HTML!"</b></p><br/>
+<p><b>Sveiks! Es, Jānis Voitkēvičs saku:</br>"Edgar! Mācies HTML!"</b></p><br/>
 <hr/>
 <h4>Visvienkāršākais kods</h4>
 <img src=/home/user/web/bilde.png width="500"></br>
