@@ -10,11 +10,11 @@
 <p><b>Sveiks! Es, Jānis VOitkēvičs saku:</br>"Edgar! Mācies HTML!"</b></p><br/>
 <hr/>
 <h4>Visvienkāršākais kods</h4>
-<img src= width="500"></br>
+<img src=/home/user/web/bilde.png width="500"></br>
 <hr/>
 <h4>Dokuments ar korektiem Latviešu simboliem</h4>
 
-<img src= width="600">
+<img src=/home/user/web/bilde1.png width="600">
 <hr/>
 <h4>Šī dokumenta kods</h4>
 <pre>
@@ -22,3 +22,4 @@
 </pre>
 
 </html>
+
